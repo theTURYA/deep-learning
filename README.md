@@ -1,13 +1,16 @@
 ## Overview of Deep Learning Course
 <br/>
+
 1. Introduction to Deep Learning
 Definition and Scope: Understanding what deep learning is and how it fits into the broader field of machine learning.
 History and Evolution: Brief history of neural networks and deep learning advancements.
 <br/>
+<p>
 2. Neural Networks Basics
 Neurons and Layers: Structure and function of artificial neurons, layers, and how they are organized.
 Activation Functions: Common functions like ReLU, sigmoid, and tanh.
 Forward Propagation: How inputs are processed through the network.
+ <p/>
 <br/>
 3. Training Neural Networks
 Loss Functions: Understanding different loss functions and their role in training (e.g., mean squared error, cross-entropy).
