@@ -1,10 +1,11 @@
 ## Overview of Deep Learning Course
 <br/>
-
+<p>
 1. Introduction to Deep Learning
 Definition and Scope: Understanding what deep learning is and how it fits into the broader field of machine learning.
 History and Evolution: Brief history of neural networks and deep learning advancements.
 <br/>
+<p/>
 <p>
 2. Neural Networks Basics
 Neurons and Layers: Structure and function of artificial neurons, layers, and how they are organized.
