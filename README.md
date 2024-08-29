@@ -13,11 +13,13 @@ Activation Functions: Common functions like ReLU, sigmoid, and tanh.
 Forward Propagation: How inputs are processed through the network.
  <p/>
 <br/>
+  <p>
 3. Training Neural Networks
 Loss Functions: Understanding different loss functions and their role in training (e.g., mean squared error, cross-entropy).
 Optimization Algorithms: Techniques like gradient descent, Adam, and their variants.
 Backpropagation: How gradients are calculated and used to update weights.
 <br/>
+   <p/>
 4. Architectures and Models
 Feedforward Neural Networks: Basic structure and usage.
 Convolutional Neural Networks (CNNs): For image data and computer vision tasks.
