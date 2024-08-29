@@ -11,7 +11,6 @@ Neurons and Layers: Structure and function of artificial neurons, layers, and ho
 Activation Functions: Common functions like ReLU, sigmoid, and tanh.
 Forward Propagation: How inputs are processed through the network.
  <p/>
-<br/>
   <p>
 3. Training Neural Networks
 Loss Functions: Understanding different loss functions and their role in training (e.g., mean squared error, cross-entropy).
