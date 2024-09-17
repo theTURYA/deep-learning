@@ -49,3 +49,5 @@ Libraries and Tools: For data handling, visualization, and experimentation.
 9. Project and Case Studies
 Hands-On Projects: Practical applications and real-world problems.
 Case Studies: Analysis of successful deep learning applications.
+<p/>
+10. Project: Customer Segmentation using K-Means Clustering with Python
